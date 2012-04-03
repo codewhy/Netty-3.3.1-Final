@@ -21,6 +21,9 @@ Existing Git Repo?
       
 Importing a Subversion Repo?
   Check out the guide for step by step instructions.
+
+get & combine
+  git pull origin
       
 When you're done:
   Continue
