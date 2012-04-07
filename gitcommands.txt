@@ -24,6 +24,6 @@ Importing a Subversion Repo?
 
 get & combine
   git pull origin
-      
+  git clone   --progress -v  "https://codewhy@github.com/codewhy/Netty-3.3.1-Final.git" "Netty-3.3.1-Final"
 When you're done:
   Continue
